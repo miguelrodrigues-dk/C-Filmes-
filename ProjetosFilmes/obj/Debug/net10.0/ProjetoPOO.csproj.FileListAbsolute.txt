@@ -1,0 +1,42 @@
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\bin\Debug\net10.0\ProjetoPOO.exe
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\bin\Debug\net10.0\ProjetoPOO.deps.json
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\bin\Debug\net10.0\ProjetoPOO.runtimeconfig.json
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\bin\Debug\net10.0\ProjetoPOO.dll
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\bin\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.dll
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\refint\ProjetoPOO.dll
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ProjetoPOO.genruntimeconfig.cache
+C:\Users\marcio israel\Downloads\ProjetoPOO2DS-main\ProjetoPOO2DS-main\ProjetoPOO2DS-main\obj\Debug\net10.0\ref\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\bin\Debug\net10.0\ProjetoPOO.exe
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\bin\Debug\net10.0\ProjetoPOO.deps.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\bin\Debug\net10.0\ProjetoPOO.runtimeconfig.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\bin\Debug\net10.0\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\bin\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\refint\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ProjetoPOO.genruntimeconfig.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes2\obj\Debug\net10.0\ref\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetoPOO.exe
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetoPOO.deps.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetoPOO.runtimeconfig.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.AssemblyInfo.cs
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\refint\ProjetoPOO.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetoPOO.genruntimeconfig.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ref\ProjetoPOO.dll

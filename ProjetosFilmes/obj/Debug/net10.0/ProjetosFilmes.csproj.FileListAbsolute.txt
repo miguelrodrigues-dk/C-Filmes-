@@ -1,0 +1,14 @@
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetosFilmes.exe
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetosFilmes.deps.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetosFilmes.runtimeconfig.json
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetosFilmes.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\bin\Debug\net10.0\ProjetosFilmes.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.AssemblyInfoInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.AssemblyInfo.cs
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\refint\ProjetosFilmes.dll
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.pdb
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ProjetosFilmes.genruntimeconfig.cache
+C:\Users\Aluno.FATECITU\Downloads\ProjetosFilmes\obj\Debug\net10.0\ref\ProjetosFilmes.dll
